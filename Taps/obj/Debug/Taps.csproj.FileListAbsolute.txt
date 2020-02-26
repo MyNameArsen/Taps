@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\Taps\Taps\bin\Debug\Taps.exe.config
+C:\Users\Dimon\source\repos\Taps\Taps\bin\Debug\Taps.exe
+C:\Users\Dimon\source\repos\Taps\Taps\bin\Debug\Taps.pdb
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.csprojAssemblyReference.cache
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.Form1.resources
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.Properties.Resources.resources
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.exe
+C:\Users\Dimon\source\repos\Taps\Taps\obj\Debug\Taps.pdb
